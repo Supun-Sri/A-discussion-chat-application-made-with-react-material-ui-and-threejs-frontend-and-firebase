@@ -1,3 +1,3 @@
 # A-discussion-chat-application-made-with-react-material-ui-and-threejs-frontend-and-firebase
 this project is built for demonstrate the react, material ui , threejs  and firebase
-visit the site from here - 
+visit the site from here - https://chat-discussion.netlify.app
